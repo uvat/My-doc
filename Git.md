@@ -228,6 +228,7 @@ Visualiser l'historique
 ### La doc Git
 
 <http://git-scm.com/docs>
+
 <http://gitref.org/>
 
 ### Faire ce tutoriel de github
