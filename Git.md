@@ -28,6 +28,10 @@ Aperçu du cycle de vie des états du fichier:
 
 ![git status](http://git-scm.com/figures/18333fig0201-tn.png)
 
+Aperçu des branches
+
+![git branch](https://wiki.duraspace.org/download/attachments/23267391/img.branch.png?version=1&modificationDate=1294385216624&api=v2)
+
 
 ##Configuration
 
